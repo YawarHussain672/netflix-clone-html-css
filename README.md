@@ -1,6 +1,3 @@
-# netflix-clone-html-css
-A fully responsive Netflix homepage clone crafted using only HTML and CSS. This project replicates Netflix’s modern UI design and responsiveness across all devices.
-
 # 🎬 Netflix Clone (HTML & CSS)
 
 A fully responsive Netflix homepage clone created using **pure HTML and CSS**. This project is designed to closely mirror the official Netflix UI with an emphasis on clean design, responsive behavior, and mobile-first principles.
